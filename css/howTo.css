@@ -28,7 +28,7 @@ body .howToContainer .howToFlex .leftColumn img {
 }
 body .howToContainer .howToFlex .leftColumn button {
   margin-top: 10%;
-  margin-bottom: 10%;
+  margin-bottom: 7%;
   width: 75%;
   font-size: 1.5rem;
   border-radius: 5px;
@@ -38,10 +38,15 @@ body .howToContainer .howToFlex .leftColumn button {
   padding: 2.5%;
   border: none;
 }
-body .howToContainer .howToFlex .leftColumn h2 {
-  color: #444;
+body .howToContainer .howToFlex .leftColumn .centerText {
+  text-align: center;
+  margin-right: 25%;
 }
-body .howToContainer .howToFlex .leftColumn a {
+body .howToContainer .howToFlex .leftColumn .centerText h2 {
+  color: #444;
+  margin-bottom: 7.5%;
+}
+body .howToContainer .howToFlex .leftColumn .centerText a {
   color: #0090c5;
   text-decoration: underline;
   line-height: 2rem;
