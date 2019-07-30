@@ -55,6 +55,7 @@ body .howToContainer .howToFlex .leftColumn .centerText .howToPictures a img {
 }
 body .howToContainer .howToFlex .leftColumn .centerText h2 {
   color: #444;
+  margin-top: 2%;
   margin-bottom: 7.5%;
 }
 body .howToContainer .howToFlex .leftColumn .centerText a {
@@ -78,4 +79,5 @@ body .howToContainer .howToFlex .rightColumn p {
 }
 body .howToContainer .howToFlex .rightColumn h2 {
   color: #444;
+  margin: 4% 0% 2% 0%;
 }
